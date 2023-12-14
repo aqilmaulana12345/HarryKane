@@ -1,0 +1,65 @@
+.tulisan{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+}
+
+.Gallery {
+    text-align: center;
+    
+}
+
+
+
+.Kane{
+    color:#8c1aff;
+    font-family: 'Poppins';
+    font-weight: 700;
+}
+
+
+
+.ProfilKane{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+}
+
+.AqilMaulana{
+    font-family: 'Poppins';
+    color:#004d99;
+    font-weight: 700;
+}
+
+.Galeri{
+    color:#004d99;
+    font-weight: 700; 
+    font-family: 'Poppins';
+}
+
+.Button{
+    background-color: azure;
+    border-color: rgb(37, 35, 35);
+}
+
+.TulisanCard {
+font-family: 'Open Sans', sans-serif;
+font-weight: lighter;
+}
+
+.Card {
+    text-align: center;
+}
+
+.Button {
+    text-align: center;
+}
+
+.Gallery2{
+    background-color: #f2f2f2;
+}
+
+
+@media (max-width: 576px){
+    .Card {
+        display: none;
+    }
+}
